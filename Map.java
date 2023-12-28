@@ -1,6 +1,4 @@
 /*  Name: Jun Hyun Park
-*  PennKey: andrewpp
-*  Recitation: Section 219
 *
 *  A class representing the map in which the Brick Breaker game takes place. Keeps 
 *  track of the bricks, ball, and platform, and allows user input to control 
