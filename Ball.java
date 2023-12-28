@@ -1,6 +1,4 @@
 /*  Name: Jun Hyun Park
-*  PennKey: andrewpp
-*  Recitation: Section 219
 *
 *  A class that represents the ball in Brick Breaker. The ball will be able to move
 * and handle all of the collisions between the blocks and the boundaries of the map
