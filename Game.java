@@ -1,6 +1,4 @@
 /*  Name: Jun Hyun Park
-*  PennKey: andrewpp
-*  Recitation: Section 219
 *
 *  Execution: java Game [filename]
 *
