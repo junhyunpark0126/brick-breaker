@@ -1,6 +1,4 @@
 /*  Name: Jun Hyun Park
-*  PennKey: andrewpp
-*  Recitation: Section 219
 *
 *  A class that represents the brick in Brick Breaker. Bricks cannot move
 * but have aspects such as health and can change color
