@@ -1,6 +1,4 @@
 /*  Name: Jun Hyun Park
-*  PennKey: andrewpp
-*  Recitation: Section 219
 *
 *  A class that represents the platform in Brick Breaker. Platform is free to move
 *  only in the x direction
