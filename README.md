@@ -1,1 +1,1 @@
-# BrickBreaker
+# brick-breaker
